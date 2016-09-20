@@ -1,0 +1,33 @@
+.container{
+  width: 40vw;
+  margin: auto;
+  padding:30px;
+  background-color: #f9f9f9;
+  text-align: center;
+  color: gray;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #C1A071;
+}
+
+h1{
+/*how do I bring in sides without splitting line in HTML*/
+}
+
+img{
+  width: 85%;
+  margin: 20px;
+}
+h2{
+font-family: 'Raleway', sans-serif;
+color: #C1A071;
+}
+
+a {
+font-family: 'Raleway', sans-serif;
+color: #C1A071;
+}
+
+.recipe {
+  font-family: monospace;
+}
